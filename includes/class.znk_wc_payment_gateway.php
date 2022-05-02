@@ -91,13 +91,13 @@ if( ! defined( 'ABSPATH' ) ) { exit; }
                     'desc_tip'    => true,
                 ),
                 'test_plugin_key' => array(
-                    'title'       => __('Sandbox plugin key', 'zenkipay'),
+                    'title'       => __('Sandbox Zenkipay plugin key', 'zenkipay'),
                     'type'        => 'text',
                     'description' =>  __('Prior to accepting live crypto payments, you can test crypto payments in a safe Zenkipay sandbox environment. Create your Zenkipay account', 'zenkipay') .' <a href="'. esc_url("https://zenki.fi/").'" target="_blanck">' .__('here', 'zenkipay') .'</a>',
                     'default'     => ''
                 ),
                 'live_plugin_key' => array(
-                    'title'       => __('Production plugin key', 'zenkipay'),
+                    'title'       => __('Production Zenkipay plugin key', 'zenkipay'),
                     'type'        => 'text',
                     'description' => __('Need a key? Create your Zenkipay account', 'zenkipay') .' <a href="'. esc_url("https://zenki.fi/").'" target="_blanck">' .__('here', 'zenkipay') .'</a>',
                     'default'     => ''
