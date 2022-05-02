@@ -16,7 +16,7 @@ Zenkipay’s latest, most complete cryptocurrency payment processing solution. A
 
 Built and supported by [Zenki](https://zenki.fi/).
 
-= Give your customers a new experience to pay with one checkout solution and with cryptos =
+= Give your customers a new experience to pay with any cryptos from any wallet with one single integration =
 
 Streamline your business with one simple, powerful solution.
 
